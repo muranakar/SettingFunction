@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "2zV-XE-fMk"; */
+"2zV-XE-fMk.text" = "画面を暗めにする";
+
+/* Class = "UISegmentedControl"; Mu4-om-Q3G.segmentTitles[0] = "ON"; ObjectID = "Mu4-om-Q3G"; */
+"Mu4-om-Q3G.segmentTitles[0]" = "はい";
+
+/* Class = "UISegmentedControl"; Mu4-om-Q3G.segmentTitles[1] = "OFF"; ObjectID = "Mu4-om-Q3G"; */
+"Mu4-om-Q3G.segmentTitles[1]" = "いいえ";
+
+/* Class = "UITableViewSection"; headerTitle = "View"; ObjectID = "Sza-rk-UeU"; */
+"Sza-rk-UeU.headerTitle" = "見た目";
+
+/* Class = "UILabel"; text = "Other Apps"; ObjectID = "XPT-Eg-pLu"; */
+"XPT-Eg-pLu.text" = "リハビリ専門家が\n作成したアプリ集";
+
+/* Class = "UITableViewSection"; headerTitle = "Other\n"; ObjectID = "bpm-HA-d1m"; */
+"bpm-HA-d1m.headerTitle" = "その他";
+
+/* Class = "UILabel"; text = "Review App"; ObjectID = "eDs-Ez-4au"; */
+"eDs-Ez-4au.text" = "アプリの感想を書く";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "fVm-7i-r3m"; */
+"fVm-7i-r3m.text" = "このアプリを共有する";
